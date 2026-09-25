@@ -14,5 +14,3 @@ spec:
       source: "@volumes/jupyter-snowpark"
       uid: 1000
       gid: 1000
-  networkPolicyConfig:
-      allowInternetEgress: true
